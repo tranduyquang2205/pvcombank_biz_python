@@ -4,3 +4,4 @@ pydantic
 requests
 cryptography
 bs4
+lxml
